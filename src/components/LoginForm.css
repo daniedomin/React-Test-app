@@ -1,0 +1,39 @@
+.login-form {
+    text-align: center;
+    border: 20px solid #e70b84;
+    padding: 1px;
+    margin: 20px;
+}
+
+h3 {
+    text-align: center;
+    border: 7px solid #e70b84;
+    padding: 1px;
+    margin: 20px;
+    background-color: #24d8d8;
+}
+
+.form {
+    display: flex;
+    flex-direction: colum;
+    margin-top: 10px;
+}
+
+label {
+    margin-bottom: 5px;
+}
+
+input {
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px;
+    class: "btn btn-primary";
+    background-color: #e6195d;
+    color: #2a0869;
+    border: none;
+    cursor: pointer;
+  }
+  
